@@ -1,0 +1,1 @@
+Project designed to classify various emotions utilizing electroencephalographic data
